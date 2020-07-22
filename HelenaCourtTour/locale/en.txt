@@ -1,0 +1,67 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Virtual tour of 2 bedroom apartment for sale in Tetbury.
+
+### Title
+tour.name = Helena Court
+
+## Skin
+
+### Multiline Text
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.07vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.07vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.03vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = Helena Court
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = Helena Court
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = Tetbury, Gloucestershire
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = Tetbury, Gloucestershire
+
+## Media
+
+### Title
+map_1EE82299_09E2_FB45_4183_D1DD384F0E86.label = Floor Plan
+panorama_FA32500B_F050_9071_41D3_90C045687EBF.label = Lounge Bookcase
+panorama_FA327F2D_F051_70B0_41E4_C51EB083DEB2.label = Hallway
+panorama_FA32AC1D_F051_9090_41E8_C604F653950E.label = Entrance
+panorama_FA32ACE6_F051_B1B0_41D0_F8816A912EA0.label = Front Door Open
+panorama_FA32DAA9_F051_91B0_41EA_20A88BFE7F9E.label = Bedroom Lobby
+panorama_FA32FB35_F051_F091_41D7_761278C703D7.label = Bedroom Small
+panorama_FA3BEAAC_F051_B1B0_41CD_7FFE63F85FEA.label = Bedroom Large
+panorama_FA3D6D6A_F051_90B3_41DA_D09F2F5E861C.label = Garden
+panorama_FA3DBFBA_F050_8F93_41EB_2F85C83C4CFB.label = Kitchen
+panorama_FA3DE083_F050_F071_41DC_58BC90C1E156.label = Lounge Sofa
+panorama_FBD628E7_F051_91B1_41D4_0FF575E5EC5B.label = Bathroom
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_0470A503_09E3_F945_4160_99D488FCA8B8.toolTip = Move towards garden
+HotspotPanoramaOverlayArea_04794EAB_09E6_4B45_41A0_18B1FD59F8CD.toolTip = Move to kitchen
+HotspotPanoramaOverlayArea_04E90B2C_09E2_4943_419B_3D8C02B48FD5.toolTip = Back to hallway
+HotspotPanoramaOverlayArea_051E4481_09E3_BF45_4192_466ED01540F3.toolTip = Back to hallway
+HotspotPanoramaOverlayArea_06453078_09E2_77C3_419A_F1BA28FB44DB.toolTip = Back to lounge
+HotspotPanoramaOverlayArea_0685AEB9_09E2_4B45_419A_CA3EF3F85E0C.toolTip = Move outside to garden
+HotspotPanoramaOverlayArea_07CD8611_09E2_7B45_4165_F17213C99D2A.toolTip = Move to lounge
+HotspotPanoramaOverlayArea_131E2206_0A2E_FB4C_4191_8661103AE712.toolTip = Back to hallway
+HotspotPanoramaOverlayArea_151DE282_05DD_6AA0_418C_98B5AC85FE2D.toolTip = Move to the hallway
+HotspotPanoramaOverlayArea_16A6A247_05F7_25A1_417E_D812D79DBBD4.toolTip = Back to entrance
+HotspotPanoramaOverlayArea_17B1FA30_05F3_65FF_4194_D7CD2706DADE.toolTip = Move to the hallway
+HotspotPanoramaOverlayArea_1864D5A9_09EE_5945_4173_4ECC93E9A513.toolTip = Move to lobby
+HotspotPanoramaOverlayArea_18D073A7_09E5_F94D_4199_5F76D6A2DD18.toolTip = Move to bathroom
+HotspotPanoramaOverlayArea_18EBF0AA_09E2_D747_41A3_A9DF4B43E61C.toolTip = Move to bedroom
+HotspotPanoramaOverlayArea_192C727D_09E6_FBBD_419F_D951D88B6914.toolTip = Back to lobby
+HotspotPanoramaOverlayArea_192F40A2_09E6_D744_4173_8F196C79CD7F.toolTip = Back to lobby
+HotspotPanoramaOverlayArea_1949E33B_09E6_7945_41A1_B6238A9AA203.toolTip = Back to lobby
+HotspotPanoramaOverlayArea_1AE5EA81_09E2_4B45_419F_A70F44BB4063.toolTip = Move to bedroom
+HotspotPanoramaOverlayArea_1BD692CE_09E2_58DF_416F_9BA90108A15C.toolTip = Back to lounge
+HotspotPanoramaOverlayArea_1DD19F43_0A2E_49C5_418F_F7DE2F5CC606.toolTip = Move to lobby
+
+## Action
+
+### URL
+LinkBehaviour_17C2A4FF_0A63_D8BD_4188_9B5E36BF1FD4.source = https://belldesignconsultants.com/
+LinkBehaviour_17C84506_0A63_D94F_41A3_FF759A6D1E17.source = https://belldesignconsultants.com/
